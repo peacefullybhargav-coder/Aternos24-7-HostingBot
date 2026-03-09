@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AaravFrench",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
-    "version": "1.21.1"
+    "ip": " Hyperfect.aternos.me",
+    "port": 35055,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,11 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Aarav i hab ur ip",
+        "Who lieks cookies here",
+        "What build is that bruv",
+        "Nah id win",
+        "lil bro"
       ]
     },
     "chat-log": true,
@@ -78,7 +80,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1479806527807291552/98sV0vCkBYfVXF1aHaf6ppZtGtmRy-OPq4NBVzxPVe_BbvJDuNukIiWE0FYLKZOjdMSn",
     "events": {
       "connect": true,
       "disconnect": true,
