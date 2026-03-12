@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": " Hyperfect.aternos.me",
+    "ip": "Hyperfect.aternos.me",
     "port": 35055,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -79,7 +79,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.com/api/webhooks/1479806527807291552/98sV0vCkBYfVXF1aHaf6ppZtGtmRy-OPq4NBVzxPVe_BbvJDuNukIiWE0FYLKZOjdMSn",
     "events": {
       "connect": true,
